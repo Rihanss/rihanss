@@ -3,7 +3,7 @@
 I'm a developer based on a hobby
 
 ## Biography
-- Creator of **[Discord Bot - Holo](https://top.gg/bot/519521318719324181)**
+- Creator of **[Discord Bot - Holo](https://top.gg/bot/519521318719324181)** [![Discord Bots](https://top.gg/api/widget/519521318719324181.svg)(https://top.gg/bot/519521318719324181)
 - I like tea 🍵, who don't like tea anyway?
 - Playing quite a lot of Games
 
