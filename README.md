@@ -17,12 +17,13 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihanss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
+## Open Source Projects
 
 <table>
     <thead>
         <tr>
             <th>📚 Project</th>
+            <th>🪪 Language</th>
             <th>⭐ Stars</th>
             <th>⚙️ Forks</th>
             <th>🔔 Issues</th>
@@ -32,7 +33,12 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Rihanss/discordbot-example-v14" target="_blank">Example Discord Bot</a></td>
+            <td><a href="https://github.com/Rihanss/discordbot-example-v14" target="_blank">Example Bot</a></td>
+            <td>
+                <a href="https://github.com/Rihanss/discordbot-example-v14" target="_blank">
+                    <img src="https://img.shields.io/badge/Node.js-v20.15.0-brightgreen" alt="Node.js version"/>
+                </a>
+            </td>
             <td>
                 <a href="https://github.com/Rihanss/discordbot-example-v14" target="_blank">
                     <img src="https://img.shields.io/github/stars/Rihanss/discordbot-example-v14?style=flat-square&labelColor=343b41" alt="Stars"/>
@@ -60,7 +66,12 @@
             </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/https://github.com/Rihanss/holobot" target="_blank">Holo Bot</a></td>
+            <td><a href="https://github.com/Rihanss/holobot" target="_blank">Holo Bot</a></td>
+            <td>
+                <a href="https://github.com/Rihanss/holobot" target="_blank">
+                    <img src="https://img.shields.io/badge/Node.js-v16.20.2-brightgreen" alt="Node.js version"/>
+                </a>
+            </td>
             <td>
                 <a href="https://github.com/Rihanss/holobot/stargazers" target="_blank">
                     <img src="https://img.shields.io/github/stars/Rihanss/holobot?style=flat-square&labelColor=343b41" alt="Stars"/>
