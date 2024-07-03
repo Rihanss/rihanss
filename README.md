@@ -5,14 +5,17 @@
     <p>I'm <strong>Rihanss</strong>, a hobby <em>Developer</em>, mainly developing in Javascript. I'm also trying to improve my programming language and learning a new one. While I'm not coding, you can find me <strong>playing video games</strong>, or drinking tea.</p>
 </div>
 
-## Things I use to code:
+## Things I use:
 
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio-277DFF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Hostinger-674CC4?style=flat-square&logo=hostinger&logoColor=white"/>
     </p>
 
 ![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Rihanss&layout=compact)
