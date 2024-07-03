@@ -15,7 +15,7 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     </p>
 
-[![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Rihanss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Rihanss&layout=compact)]
 
 ## Open Source Projects
 
@@ -102,7 +102,7 @@
 </table>
 <br>
 
-[![rihanss's GitHub stats](github-readme-stats-rihanss-projects.vercel.app/api?username=Rihanss&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![rihanss's GitHub stats](https://github-readme-stats-rihanss-projects.vercel.app/api?username=Rihanss&theme=tokyonight&show_icons=true&count_private=true)]
 
 ## Active Project
 [![Discord Bots](https://top.gg/api/widget/519521318719324181.svg)](https://top.gg/bot/519521318719324181)
