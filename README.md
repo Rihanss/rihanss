@@ -102,7 +102,7 @@
 </table>
 <br>
 
-[![rihanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihanss&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/Rihanss/github-readme-stats)
+[![rihanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihanss&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Active Project
 [![Discord Bots](https://top.gg/api/widget/519521318719324181.svg)](https://top.gg/bot/519521318719324181)
