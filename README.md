@@ -2,8 +2,9 @@
 
 <div>
 <p>Welcome to my Bio!</p>
-    <p>I'm <strong>Rihanss</strong>, a hobby <em>Developer</em>, mainly developing in Javascript. I'm also trying to improve my programming language and learning a new one. While I'm not coding, you can find me <strong>playing video games</strong>, or drinking tea.</p>
+    <p>I'm <strong>Rihanss</strong>, a hobby <em>Developer</em>, mainly working in Javascript. I'm also trying to improve my programming language and learning a new one. While I'm not coding, you can find me <strong>playing video games</strong>, or drinking tea.</p>
 </div>
+
 
 ## Things I use:
 
