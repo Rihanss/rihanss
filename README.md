@@ -2,7 +2,7 @@
 
 <div>
 <p>Welcome to my Bio!</p>
-    <p>I'm Rihanss, a hobby developer who mostly works with <strong>JavaScript</strong>. While I focus primarily on creating Discord bots, I also enjoy working on various other projects. I'm currently dedicated to improving my programming skills and learning a new language. When I'm not coding, you can find me playing video games or sipping on a cup of tea.</p>
+    <p>I'm Rihanss, a hobby developer who mostly works in <strong>Node.js</strong>. While I focus primarily on creating Discord bots, I also enjoy working on various other projects. I'm currently dedicated to improving my programming skills and learning a new language. When I'm not coding, you can find me playing video games or sipping on a cup of tea.</p>
 </div>
 
 
