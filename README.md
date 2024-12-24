@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile
 
 <div>
-<p>Welcome to my Bio!</p>
-    <p>I'm Rihanss, a hobby developer primarily working with JavaScript through Node.js to create projects like Discord bots and more. I'm dedicated to improving my programming skills and exploring new languages. When I'm not coding, you can find me playing video games or enjoying a cup of tea.</p>
+<p>Hey, I’m Rihanss! <br><br>I’m a hobby developer who loves working with JavaScript and Node.js to create cool stuff like Discord bots and other fun projects. I’m always looking to level up my coding skills and try out new programming languages. When I’m not coding, you’ll probably find me gaming or chilling with a cup of tea.
+</p>
 </div>
 
 
@@ -15,7 +15,8 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
     <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Hostinger-674CC4?style=flat-square&logo=hostinger&logoColor=white"/>
+    <img alt="Hostinger" src="https://img.shields.io/badge/-Hostinger-674CC4?style=flat-square&logo=hostinger&logoColor=white"/>
+        <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </p>
 
 ![Top Languages](https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Rihanss&layout=compact)
